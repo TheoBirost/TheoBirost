@@ -39,5 +39,4 @@ Développeur passionné, actuellement en 2ᵉ année de **BUT Informatique**. J�
 ## 🌍 Me Contacter  
 📫 **Portfolio** : [Visiter mon portfolio](http://45.147.97.140/portfolio/)  
 📧 **Email** : tbirost@gmail.com  
-
 💼 **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/th%C3%A9o-birost/) *(disponible pour stage)*
