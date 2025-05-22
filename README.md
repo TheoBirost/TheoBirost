@@ -2,7 +2,6 @@
 
 Développeur passionné en 2ᵉ année de **BUT Informatique**, j'adore explorer et expérimenter avec les nouvelles technologies, que ce soit en **développement web**, **programmation orientée objet** ou **développement de jeux vidéo**. 🚀
 
-📍 Actuellement à la recherche d'un **stage**, n'hésitez pas à me contacter !
 
 ---
 
@@ -42,4 +41,4 @@ Développeur passionné en 2ᵉ année de **BUT Informatique**, j'adore explorer
 ## 🌍 **Me Contacter**
 📫 **Portfolio** : [Visiter mon portfolio](http://mmi23f02.mmi-troyes.fr/portfolio/)  
 📧 **Email** : [tbirost@gmail.com](mailto:tbirost@gmail.com)  
-💼 **LinkedIn** : [Mon LinkedIn](www.linkedin.com/in/theobirost) *(Disponible pour un stage !)*
+💼 **LinkedIn** : [Mon LinkedIn](www.linkedin.com/in/theobirost) 
