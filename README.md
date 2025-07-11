@@ -41,4 +41,4 @@ Développeur passionné en 2ᵉ année de **BUT Informatique**, j'adore explorer
 ## 🌍 **Me Contacter**
 📫 **Portfolio** : [Visiter mon portfolio](http://mmi23f02.mmi-troyes.fr/portfolio/)  
 📧 **Email** : [tbirost@gmail.com](mailto:tbirost@gmail.com)  
-💼 **LinkedIn** : [Mon LinkedIn]([www.linkedin.com/in/theobirost](https://www.linkedin.com/in/theobirost/)
+💼 **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/theobirost/)
