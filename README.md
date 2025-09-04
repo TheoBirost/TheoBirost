@@ -1,6 +1,6 @@
 # 👋 Salut, je suis **Théo BIROST** !
 
-Développeur passionné en 2ᵉ année de **BUT Informatique**, j'adore explorer et expérimenter avec les nouvelles technologies, que ce soit en **développement web**, **programmation orientée objet** ou **développement de jeux vidéo**. 🚀
+Développeur passionné en 3ᵉ année de **BUT Informatique**, j'adore explorer et expérimenter avec les nouvelles technologies, que ce soit en **développement web**, **programmation orientée objet** ou **développement de jeux vidéo**. 🚀
 
 
 ---
