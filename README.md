@@ -1,6 +1,6 @@
 # 👋 Salut, je suis **Théo BIROST** !
 
-✨ *Actuellement en recherche de stage pour Avril (18 semaines).*  
+✨ *Actuellement en recherche de stage pour Mars (18 semaines).*  
 
 Développeur Front-End Junior en 3ᵉ année de **BUT MMI** (Métiers du Multimédia & de l’Internet).  
 Passionné par la **création web**, l’**intégration moderne**, le **design**, et toujours motivé pour apprendre de nouveaux outils. 🚀
