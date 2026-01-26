@@ -100,8 +100,6 @@ Projet universitaire en duo : site interactif de visualisation des infrastructur
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBirost&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheoBirost&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
 </div>
 
 ---
