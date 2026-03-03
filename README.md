@@ -108,6 +108,6 @@ Projet universitaire en duo : site interactif de visualisation des infrastructur
 
 *"Passionné par le code, guidé par le design"*
 
-**Disponible pour un stage de 18 semaines à partir de Mars 2025** 🚀
+**Disponible pour un stage de 18 semaines à partir de Mars 2026** 🚀
 
 </div>
