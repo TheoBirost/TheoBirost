@@ -6,7 +6,7 @@
 
 </div>
 
-✨ **Actuellement en recherche de stage pour Mars 2025 (18 semaines)**
+✨ **Actuellement en recherche de stage pour Mars 2026 (18 semaines)**
 
 Développeur Front-End Junior en 3ᵉ année de **BUT MMI** (Métiers du Multimédia & de l'Internet).  
 Passionné par la **création web**, l'**intégration moderne**, le **design UI/UX**, et toujours motivé pour apprendre et relever de nouveaux défis techniques. 🚀
